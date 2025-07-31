@@ -94,7 +94,7 @@ A curated collection of **free eBooks** and learning resources for software engi
 
 1. Clone or download the repo
 ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Kishan-Mevada/kishan-ebooks-library.git
 ```
 2. Navigate to the topic wise section to browse and read
 
