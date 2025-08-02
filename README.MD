@@ -49,9 +49,10 @@ A curated collection of **free eBooks** and learning resources for software engi
 ---
 
 ## 🏗️ System Design
-| Title | Format | Link |
-|-------|--------|------|
-| Coming Soon...|       |
+| Title                                                     | Format | Link                                                                                    |
+|-----------------------------------------------------------|--------|-----------------------------------------------------------------------------------------|
+| Designing Data Intensive Applications by Martin Kleppmann | PDF    | [Download](system-design/Designing-Data-Intensive-Applications-by-Martin-Kleppmann.pdf) |
+| System Design Interview by Alex Xu 2nd Edition            | PDF    | [Download](system-design/System-Design-Interview-by-Alex-Xu-2nd.pdf)                    |
 
 ---
 
