@@ -42,9 +42,20 @@ A curated collection of **free eBooks** and learning resources for software engi
 ---
 
 ## 📩 Messaging
-| Title | Format | Link |
-|-------|--------|------|
-| Coming Soon...|       |
+| Title                                    | Format | Link                                                      |
+|------------------------------------------|--------|-----------------------------------------------------------|
+| Kafka in Action                          | PDF    | [Download](<messaging/Kafka in Action.pdf>)               |
+| Kafka The Definitive Guide (2nd Edition) | PDF    | [Download](<messaging/Kafka The Definitive Guide 2e.pdf>) |
+| Mastering RabbitMQ                       | PDF    | [Download](<messaging/Mastering RabbitMQ.pdf>)            |
+| RabbitMQ in Depth                        | PDF    | [Download](<messaging/RabbitMQ in Depth.pdf>)             |
+  
+---
+
+## 🏗️ Design Patterns
+| Title                                                             | Format | Link                                                                                                |
+|-------------------------------------------------------------------|--------|-----------------------------------------------------------------------------------------------------|
+| Design-Patterns-Elements-of-Reusable-Object-Oriented Software-GOF | PDF    | [Download](<design-patterns/Design-Patterns-Elements-of-Reusable-Object-Oriented Software-GOF.pdf>) |
+| Head First Design Patterns - Freeman                              | PDF    | [Download](<design-patterns/Head First Design Patterns - Freeman.pdf>)                              |
 
 ---
 
